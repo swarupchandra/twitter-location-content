@@ -1,7 +1,7 @@
 # Estimating Twitter User Location Using Social Interactions - A Content Based Approach
 ----------
 
-This is the code for estimating user location of Twitter user's using only tweet content. 
+This is the code used for estimating location of Twitter users using only tweet content. 
 
 The work was published at
 [SocialCom 2011] (http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6113226&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6113226)
